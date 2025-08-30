@@ -1,2 +1,2 @@
 # flayr
-Flayer distribution repo
+Flayr distribution repo
